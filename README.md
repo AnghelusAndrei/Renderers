@@ -4,7 +4,7 @@ This repository serves as a collection of my most memorable renderers troughout 
 # VoxelRenderer3.0
 
 This renderer is my current project as of November 2024 and my best one so far in terms of techniques, structure and optimization
-For more information you can access its repository [here](https://github.com/AnghelusAndrei/VoxelEngine3.0)
+For more information or build details you can access its repository [here](https://github.com/AnghelusAndrei/VoxelEngine3.0)
 The project is made using OpenGL and GLFW and highly optimised for the GPU.
 Succesfully implements:
 ```
@@ -37,4 +37,22 @@ Succesfully implements:
 
 # VulkanVoxelRenderer
 
+This renderer is my second big renderer I made, and altough it doesn't excel in neither optimization nor features,
+it is still very impressive for me as it was my first first time working with Vulkan and attempting a multiple pass pipeline.
+This project could be considered a direct predecessor to VoxelRenderer3.0
 
+# Voxel_Renderer
+
+Voxel_Renderer is my first big renderer from the voxel raytracing series, I was in 8th grade when I began working on it, which 
+is very clear in the messy code structure. Altough it is not nearly as refined and optimized as my last project, I still consider
+this project a succes as I managed to implement the highest amount of features out of all the renderers, no matter how many bugs they have.
+It is here where I first created my own 3D DDA algorithm, developed my first GPU SVO structure and used hardware acceleration 
+to march the rays trough the octree. Successfully implements:
+```
+-Sparse Voxel Octrees
+-per voxel normals
+-simple material system
+-simple object system(moving and rotating)
+-capability to import obj files
+-blinn-phong lighting mode, very simple reflections and simple hard shadows
+```
