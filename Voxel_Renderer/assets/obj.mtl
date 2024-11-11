@@ -1,0 +1,14 @@
+# Color definition for Tinkercad Obj File 2015
+
+newmtl color_16711700
+Ka 0 0 0 
+Kd 1 0 0.0784313725490196
+d 1
+illum 0.0
+
+newmtl color_11793919
+Ka 0 0 0 
+Kd 0.7019607843137254 0.9607843137254902 1
+d 1
+illum 0.0
+
