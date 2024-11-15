@@ -1,10 +1,10 @@
 # Renderers
 This repository serves as a collection of my most memorable renderers troughout the years
 
-# VoxelRenderer3.0
+# [VoxelRenderer3.0](https://github.com/AnghelusAndrei/VoxelEngine3.0)
 
 This renderer is my current project as of November 2024 and my best one so far in terms of techniques, structure and optimization
-For more information or build details you can access its repository [here](https://github.com/AnghelusAndrei/VoxelEngine3.0)
+For more information or build details you can access its repository.
 The project is made using OpenGL and GLFW and highly optimised for the GPU.
 Succesfully implements:
 ```
@@ -35,13 +35,13 @@ Succesfully implements:
 ### Raytracing
 ![image](https://github.com/user-attachments/assets/0b2da2ea-1eb6-4dfd-adfb-e517fd563a5d)
 
-# VulkanVoxelRenderer
+# [VulkanVoxelRenderer](https://github.com/AnghelusAndrei/VulkanVoxelRenderer)
 
 This renderer is my second big renderer I made, and altough it doesn't excel in neither optimization nor features,
 it is still very impressive for me as it was my first first time working with Vulkan and attempting a multiple pass pipeline.
 This project could be considered a direct predecessor to VoxelRenderer3.0
 
-# Voxel_Renderer
+# [Voxel_Renderer](https://github.com/AnghelusAndrei/Voxel_Renderer)
 
 Voxel_Renderer is my first big renderer from the voxel raytracing series, I was in 8th grade when I began working on it, which 
 is very clear in the messy code structure. Altough it is not nearly as refined and optimized as my last project, I still consider
