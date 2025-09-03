@@ -37,7 +37,7 @@ Succesfully implements:
 
 # [VulkanVoxelRenderer](https://github.com/AnghelusAndrei/VulkanVoxelRenderer)
 
-This renderer is my second big renderer I made in collaboration with Albert Maftei-Alexandru, student at ETH Zürich, and altough it doesn't excel in neither optimization nor features,
+This renderer is my second big renderer I made in collaboration with Albert Maftei, student at ETH Zürich, and altough it doesn't excel in neither optimization nor features,
 it is still very impressive for me as it was my first first time working with Vulkan and attempting a multiple pass pipeline.
 This project could be considered a direct predecessor to VoxelRenderer3.0
 
